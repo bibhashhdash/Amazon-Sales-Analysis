@@ -10,7 +10,7 @@
 
 The Amazon Sales Analysis project is based on Exploratory Data Analysis(EDA) in which our main objective is to analyze amazon sales data to gain actionable insights, identify trends, optimize business processes and personalize customer experiences. This will help in strategic decision making and also in enhancing the overall customer experience of Amazon.
 
-![Amazon Dashboard](https://github.com/bibhashhdash/Amazon-Sales-Dashboard/blob/main/Dashboard.png)
+![Amazon Dashboard](https://github.com/bibhashhdash/Amazon-Sales-Analysis/blob/main/Dashboard.png)
 
 ### Data Sources
 
